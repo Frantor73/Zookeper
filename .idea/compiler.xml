@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Zookeeper.Topics-Introduction_to_Kotlin-Hello,_Kotlin.main" target="15" />
+      <module name="Zookeeper.Topics-Introduction_to_Kotlin-Paradigms.main" target="15" />
+      <module name="Zookeeper.Topics-Introduction_to_Kotlin-The_purpose_of_Kotlin.main" target="15" />
+      <module name="Zookeeper.Topics-Introduction_to_Kotlin-Theory.main" target="15" />
+      <module name="Zookeeper.Topics-Invoking_functions-Lembas.main" target="15" />
+      <module name="Zookeeper.Topics-Invoking_functions-Theory.main" target="15" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-The_eternal_truth.main" target="15" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-Theory.main" target="15" />
+      <module name="Zookeeper.Topics-Values_and_variables-Assignments.main" target="15" />
+      <module name="Zookeeper.Topics-Values_and_variables-Swap.main" target="15" />
+      <module name="Zookeeper.Topics-Values_and_variables-Theory.main" target="15" />
+      <module name="Zookeeper.Topics-Values_and_variables-What_is_the_value_of_a_variable.main" target="15" />
+      <module name="Zookeeper.Topics-Values_and_variables-What_is_the_value_of_a_variable__1_.main" target="15" />
+      <module name="Zookeeper.util.main" target="15" />
+      <module name="Zookeeper.Zookeeper-task-build-classes-kotlin.main" target="15" />
+      <module name="Zookeeper.Zookeeper-task-build-reports-tests.main" target="15" />
+      <module name="Zookeeper.Zookeeper-task-build-test-results.main" target="15" />
+      <module name="Zookeeper.Zookeeper-task-build-tmp.main" target="15" />
+      <module name="Zookeeper.Zookeeper-task.main" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
